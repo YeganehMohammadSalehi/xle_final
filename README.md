@@ -1,6 +1,6 @@
 # Grammar Development Final Project: English Relative Clauses
 
-_Group members: Ema Nesic, Romaisaa Ahmed, Yeganeh Salehi_
+_Group members: Ema Nesic, Romaisaa Ahmed, Yeganeh Mohammad Salehi_
 
 ## Introduction
 
