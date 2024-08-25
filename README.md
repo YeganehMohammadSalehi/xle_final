@@ -30,7 +30,7 @@ I used to hike", where the pronoun **where** modifies _the forest_.
 | Team Member  | Contributions                                             |
 |--------------|-----------------------------------------------------------|
 | Ema Nesic  | Github implementation, supplmeneting theory, ... |
-| Romaisaa Ahmed | ... |
+| Romaisaa Ahmed | Grammar rules, Unparsable sentences |
 | Yeganeh Salehi | ... |
 
 ## References
